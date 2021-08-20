@@ -1,5 +1,5 @@
 import React from "react";
-import { StyleSheet, View, Text, Platform } from "react-native";
+import { StyleSheet, View, Platform } from "react-native";
 
 export default () => {
   return <View style={styles.shadow}></View>;
